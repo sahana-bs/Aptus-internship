@@ -1,0 +1,150 @@
+A TUNISIAN Islamist “activist group” called the Fallaga Team was responsible for hacking two government websites on Wednesday, the Ministry of Tourism revealed yesterday.
+
+#Out of caution, all government websites have been checked for possible breaches and “reinforced against potential vulnerabilities by the implementation of software patching,” a statement from the ministry added.
+
+#As part of its long-term strategy, the government intends to convene a meeting of industry experts to review the government’s websites to find the best safeguards to protect future attacks.
+
+#The statement provides some insight into revelations first made by Prime Minister Perry Christie on the floor of the House of Assembly on Wednesday. Mr Christie initially told parliamentarians that the Ministry of Tourism’s
+
+#website had been hacked, an incident which Mr Christie had said poses enormous national security implications for the country.
+
+#Yesterday, the ministry revealed that two websites had been compromised: www.bahamas.com and www.bahamasfilm.com.
+
+#According to the statement, the hacks occurred on Wednesday morning.
+
+#“All defaced sections of the government-owned websites were quickly removed and a corrected version redeployed and with the restoration of all compromised pages, all affected websites are now back to normal modes of operation,” the ministry said.
+
+#“The evidence collected has been turned over to the relevant local authorities and the matter is currently under active investigation.
+
+#“As a short-term strategy and in an abundance of caution, all government websites have been checked for possible breaches, safeguarded and reinforced against potential vulnerabilities by the implementation of software patching.
+
+#“As a long term strategy and being cognizant of the fact that we live in an era where cyber-terrorism poses clear and present dangers to our national security, the government of the Bahamas will convene a meeting of industry experts to review the entire government owned Internet related infrastructure with a view to determining what, if any, additional measures can be taken to deliver the strongest possible cyber-security protocol.”
+
+#The ministry said the government intends to create a permanent public/private sector committee that will meet regularly, conduct regular audits of public Internet infrastructure and advise the government on matters of cyber-security so as to inform public policy going forward.
+
+#Minister of Tourism Obie Wilchcombe explained how the Internet attacks can be used to compromise online networks.
+
+#“We know that with today’s increasingly sophisticated malware, simply navigating to a compromised website or opening a document can unleash a whole slew of malware onto a user’s computer and can shut down entire networks, causing serious disruptions to government’s operations, to national trade and commerce and can sometimes cause serious harm to a country’s international reputation,” Mr Wilchcombe said.
+
+#“As a consequence, hackers have special or invasive means of identifying weak spots for nefarious purposes. This matter has been given serious attention and we will spare no effort in protecting and safeguarding these valuable assets and as demonstrated this morning, we are ready with an immediate fix as we did yesterday morning.”
+
+#In the House of Assembly Wednesday, Mr Christie said a similar hacking incident occurred in another Caribbean country.
+
+#Although he did not name the country, international reports have noted that the government website of St Vincent and the Grenadines was hacked earlier this month by a purported “Islamic State.”
+
+#According to I-Witness News (IWN), a message was posted on the St Vincent government’s website claiming that an “Islamist rebel group” had hacked the site. “Visitors to the website were greeted by a message saying ‘Hacked by Moroccanwolf – Islamic State’ and a photo of a man firing a machine gun from the back of a pick up truck,” IWN reported.
+
+
+
+
+FBI Most Wanted - Cyber
+
+Conspiring to Commit Computer Fraud; Accessing a Computer Without Authorization for the Purpose of Commercial Advantage and Private Financial Gain; Damaging Computers Through the Transmission of Code and Commands; Aggravated Identity Theft; Economic Espionage; Theft of Trade Secrets
+
+Details:
+
+On May 1, 2014, a grand jury in the Western District of Pennsylvania indicted five members of the People’s Liberation Army (PLA) of the People’s Republic of China (PRC) for 31 criminal counts, including: conspiring to commit computer fraud; accessing a computer without authorization for the purpose of commercial advantage and private financial gain; damaging computers through the transmission of code and commands; aggravated identity theft; economic espionage; and theft of trade secrets.
+
+The subjects, including Huang Zhenyu, were officers of the PRC’s Third Department of the General Staff Department of the People’s Liberation Army (3PLA), Second Bureau, Third Office, Military Unit Cover Designator (MUCD) 61398, at some point during the investigation. The activities executed by each of these individuals allegedly involved in the conspiracy varied according to his specialties. Each provided his individual expertise to an alleged conspiracy to penetrate the computer networks of six American companies while those companies were engaged in negotiations or joint ventures or were pursuing legal action with, or against, state-owned enterprises in China. They then used their illegal access to allegedly steal proprietary information including, for instance, e-mail exchanges among company employees and trade secrets related to technical specifications for nuclear plant designs. Huang was a computer programmer who managed the domain accounts used by the others.
+
+FBI Most Wanted - Cyber
+
+Wire Fraud; Conspiracy to Commit Computer Fraud; Computer Fraud
+
+Date(s) of Birth Used	February 10, 1970
+Place of Birth	India
+Hair	Black
+Eyes	Brown
+Height	5'8"
+Weight	175 to 180 pounds
+Sex	Male
+Race	White (Indian)
+Occupation	Internet Entrepreneur
+Nationality	Indian
+Languages	English, Hindi, Portuguese
+NCIC	W510528111
+Reward:
+
+The FBI is offering a reward of up to $20,000 for information leading to the arrest and conviction of Shaileshkumar P. Jain.
+
+Remarks:
+
+Jain is a United States citizen who has ties to Brazil, Canada, India and the Ukraine.
+
+Caution:
+
+Shaileshkumar P. Jain, along with his co-conspirator, Bjorn Daniel Sundin, is wanted for his alleged involvement in an international cybercrime scheme that caused internet users in more than 60 countries to purchase more than one million bogus software products, resulting in consumer loss of more than $100 million. It is alleged that from December 2006 to October 2008, through fake advertisements placed on legitimate companies’ websites, Jain and his accomplices deceived internet users into believing that their computers were infected with “malware” or had other critical errors in order to encourage them to purchase “scareware” software products that had limited or no ability to remedy the purported defects.
+
+Jain and his co-conspirators allegedly deceived victims, through browser hijacking, multiple fraudulent scans and false error messages, into purchasing full paid versions of software products offered by their company, Innovative Marketing, Inc. The proceeds of these credit card sales were allegedly deposited into bank accounts controlled by the defendant and others around the world, and were then transferred to bank accounts located in Europe. When customers complained that their purchases were actually fraudulent software, call center representatives were allegedly instructed to lie or provide refunds in order to prevent fraud reports to law enforcement or credit companies.
+
+On May 26, 2010, Jain was indicted in Chicago, Illinois, by a federal grand jury for the United States District Court, Northern District of Illinois. He was indicted for wire fraud, conspiracy to commit computer fraud and computer fraud. That same day, a federal warrant was issued for Jain’s arrest.
+--------------------------------------------------------------------------------------------------
+
+AUTOUPLOAD_20160426
+
+Comments:
+The main threat is sensitive data theft and cyber espionage
+
+Targets:
+USA, Canada, UK, Turkey, Lebanon and Israel. Nation-state/political-group interests
+
+TTPs:
+Explosive
+
+Other Information:
+The modus operandi for this attacker group initially targets publicly facing web servers, with both automatic and manual vulnerability discovery. Once in control of a server, the attackers further penetrate the targeted internal network via various means, including manual online hacking as well as an automated USB infection mechanism.
+
+Useful Links:
+http://www.checkpoint.com/downloads/volatile-cedar-technical-report.pdf
+http://blog.checkpoint.com/2015/03/31/volatilecedar/
+
+-------------------------------------------------------------------------------------------------------------------
+AUTOUPLOAD_20160426
+
+TTPs:
+Regin, Duqu, Flame, Stuxnet, EquationLaser, EquationDrug, DoubleFantasy, TripleFantasy, Fanny, Grayfish
+
+Operations:
+Operation Socialist
+Stuxnet
+Duqu
+
+Useful Links:
+http://securelist.com/blog/research/67741/regin-nation-state-ownage-of-gsm-networks/
+https://securelist.com/blog/research/68750/equation-the-death-star-of-malware-galaxy/
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+AUTOUPLOAD_20160426
+
+Targets:
+Israel, Palestine, Egypt, Saudi Arabia, United Arab Emirates, Turkey, USA. (Targeted sectors include governmental and diplomatic institutions, including embassies; companies from the aerospace and defence Industries; financial institutions; journalists; software developers.
+)
+Israeli-based organizations in the government, transport/infrastructure, military, and academia. One organization based in Kuwait is also as one of Arid Viper's victims.
+Egypt
+
+TTPs:
+Poison Ivy, DustySky, NeD Worm
+Operation Advtravel
+
+Operations:
+Operation Molerats
+Operation DustySky
+Operation Arid Viper
+Operation Advtravel
+
+Other Information:
+targeted emails with malware. fake website with malicipretending to be a legitimate iOS management software, and linking to it in an online freelancing marketplace.
+spear phishing
+spear phishing
+
+Useful Links:
+https://www.fireeye.com/blog/threat-research/2013/08/operation-molerats-middle-east-cyber-attacks-using-poison-ivy.html
+http://www.clearskysec.com/dustysky/
+https://securelist.com/blog/research/72283/gaza-cybergang-wheres-your-ir-team
+http://pwc.blogs.com/cyber_security_updates/2015/04/attacks-against-israeli-palestinian-interests.html
+https://github.com/kbandla/APTnotes/raw/master/2012/Cyberattack_against_Israeli_and_Palestinian_targets.pdf
+http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-operation-arid-viper.pdf
+http://securityaffairs.co/wordpress/33785/cyber-crime/arid-viper-israel-sex-video.html
+http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-operation-arid-viper.pdf
+http://securityaffairs.co/wordpress/33785/cyber-crime/arid-viper-israel-sex-video.html

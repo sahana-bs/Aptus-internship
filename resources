@@ -1,0 +1,58 @@
+github   :   https://github.com/hslatman/awesome-threat-intelligence
+google search
+engine    :    https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc
+Actor tracking  :   https://actortrackr.com/  
+
+
+Other useful resources :
+ https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc
+ https://malpedia.caad.fkie.fraunhofer.de/
+ https://malpedia.caad.fkie.fraunhofer.de/actors
+
+ https://securelist.com/teamxrat-brazilian-cybercrime-meets-ransomware/76153/
+ https://aptmap.netlify.com/#TeamXRat
+
+
+ --------------------------------------------------------------------------------------------------------------------
+
+ The procedure of reddoor follows familiar patterns, which by the international scale DDoS extortion rackets as DD4BC and Armada Collective structured in recent months and were professionalized: ship with an anonymous e-mail address of the blackmailers reddoor their demands for protection money. The required sum of 3 Bitcons is aware set relatively low in order to increase probability of payment. Each company is assigned an individual Bitcoin address. Thereby reddoor monitor the incoming payments easier. The being advertised online retailer will have 24 hours to transfer the money. Companies that do not pay, reddoor threatened with large-volume DDoS attacks. The blackmailer terminate UDP floods with bandwidths of 400 to 500 Gbps.
+
+The analysis of LSOC have shown that reddoor oriented in the formulations of his blackmailer emails to threatening letters from DD4BC. The actions of the offender also has similarities to from Armada Collective. It can not be excluded that there be at reddoor to imitators and copycats of two internationally active DDoS extortion rackets.
+
+In reddoor is current especially the e-commerce industry in focus. The Link11 Security Operation Center (LSOC) suggested, however, that the perpetrators will expand their blackmail to other industries in Germany, Austria and Switzerland.
+
+Many shop owners and projects which have received blackmail letter of reddoor, ensure their availability and performance from by the Link11 DDoS protection. Link11 has added immediately all systems on alert and will fend off DDoS attacks reliably already at the first sign.
+
+Ref:https://www.ddos-info.de/2016/warnung-vor-neuer-ddos-erpresserbande-reddoor.html
+
+------------------------------------------------------------------------------------------------------------------------------
+
+While tracking a suspected Iran-based threat group known as Threat Group-2889[1] (TG-2889), Dell SecureWorks Counter Threat Unit™ (CTU) researchers uncovered a network of fake LinkedIn profiles. These convincing profiles form a self-referenced network of seemingly established LinkedIn users. CTU researchers assess with high confidence the purpose of this network is to target potential victims through social engineering. Most of the legitimate LinkedIn accounts associated with the fake accounts belong to individuals in the Middle East, and CTU researchers assess with medium confidence that these individuals are likely targets of TG-2889.
+
+AUTOUPLOAD_20160426
+
+TTPs:
+TinyZBot
+
+Operations:
+Operation Cleaver
+
+Useful Links:
+http://www.secureworks.com/cyber-threat-intelligence/threats/suspected-iran-based-hacker-group-creates-network-of-fake-linkedin-profiles/
+https://cdn2.hubspot.net/hubfs/270968/assets/Cleaver/Cylance_Operation_Cleaver_Report.pdf
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Groups targeting financial organizations or people with significant financial assets.
+
+AUTOUPLOAD_20160426
+
+Comments:
+if u have any questions - contact with me b0@live.ru
+
+TTPs:
+Mimikatz, MBR Eraser, SoftPerfect Network Scanner, SSHd with BackDoor, Ammy AdminCVE-2012-2539 and CVE-2012-0158
+
+Useful Links:
+https://securelist.com/files/2015/02/Carbanak_APT_eng.pdf
+http://2014.zeronights.ru/assets/files/slides/ivanovb-zeronights.pdf
