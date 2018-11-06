@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "f2f05c10-959e-11e8-8dd7-798757fecf7f",
+    "_type": "dashboard",
+    "_source": {
+      "title": "Chinese threat actors dashboard",
+      "hits": 0,
+      "description": "Pie chart of the target domains and modus operandi fields of the chinese threat actors",
+      "panelsJSON": "[\n  {\n    \"panelIndex\": \"1\",\n    \"gridData\": {\n      \"x\": 0,\n      \"y\": 0,\n      \"w\": 24,\n      \"h\": 15,\n      \"i\": \"1\"\n    },\n    \"version\": \"6.3.1\",\n    \"type\": \"visualization\",\n    \"id\": \"33ce2740-959e-11e8-8dd7-798757fecf7f\",\n    \"embeddableConfig\": {}\n  },\n  {\n    \"panelIndex\": \"2\",\n    \"gridData\": {\n      \"x\": 24,\n      \"y\": 0,\n      \"w\": 24,\n      \"h\": 15,\n      \"i\": \"2\"\n    },\n    \"version\": \"6.3.1\",\n    \"type\": \"visualization\",\n    \"id\": \"0ed89510-9599-11e8-8dd7-798757fecf7f\",\n    \"embeddableConfig\": {}\n  }\n]",
+      "optionsJSON": "{\n  \"darkTheme\": false,\n  \"useMargins\": true,\n  \"hidePanelTitles\": false\n}",
+      "version": 1,
+      "timeRestore": false,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\n  \"query\": {\n    \"query\": \"\",\n    \"language\": \"lucene\"\n  },\n  \"filter\": [],\n  \"highlightAll\": true,\n  \"version\": true\n}"
+      }
+    }
+  }
+]
